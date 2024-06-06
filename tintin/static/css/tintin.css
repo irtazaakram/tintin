@@ -1,0 +1,9 @@
+/* CSS for Tintin */
+
+.tintin_block .count {
+    font-weight: bold;
+}
+
+.tintin_block p {
+    cursor: pointer;
+}
